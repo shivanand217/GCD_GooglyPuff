@@ -1,3 +1,3 @@
 # GCD_GooglyPuff
 
-Practicing iOS GCD(Multithre)
+Practicing iOS GCD(Multithreading concepts.)
